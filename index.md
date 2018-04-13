@@ -1,6 +1,8 @@
 Hello! I'm Quynh. I am a programmer who aims for having well-structured and easy-to-understand code.
 
-[LinkedIn](https://www.linkedin.com/in/quynhpxnguyen)
+My full CV can be view online in 
+- [LinkedIn](https://www.linkedin.com/in/quynh1nguyen)
+- or offline - [CV Quynh Nguyen](https://github.com/npxquynh/npxquynh.github.io/blob/master/files/Quynh_Nguyen_Resume.pdf)
 
 ### Courseworks
 - Matching terms to relevant concepts | [view on Github](https://github.com/npxquynh/LUS-project2) | natural language processing
@@ -26,6 +28,7 @@ Hello! I'm Quynh. I am a programmer who aims for having well-structured and easy
 - 2012 - BSc in Computer Science - University of Science, Ho Chi Minh City, Vietnam
 
 *Experience*
+- 2016 - now: Ruby Backend Developer - Distribusion Technologies, Bonn, Germany
 - 2015 - Backend Developer Intern - Diabetes Lab, Trento, Italy
 - 2012 - 2013 - Web Developer - East Agile, Ho Chi Minh Cit, Vietnam
  
