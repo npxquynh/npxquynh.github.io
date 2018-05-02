@@ -2,7 +2,7 @@ Hello! I'm Quynh. I am a programmer who aims for having well-structured and easy
 
 My full CV can be view online in 
 - [LinkedIn](https://www.linkedin.com/in/quynh1nguyen)
-- or offline - [CV Quynh Nguyen](https://github.com/npxquynh/npxquynh.github.io/blob/master/files/Quynh_Nguyen_Resume.pdf)
+- or offline - [CV Quynh Nguyen](https://github.com/npxquynh/npxquynh.github.io/blob/master/files/QuynhNguyenResume.pdf)
 
 ### Courseworks
 - Matching terms to relevant concepts (-) [view on Github](https://github.com/npxquynh/LUS-project2) (-) natural language processing
